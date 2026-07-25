@@ -43,8 +43,8 @@ const ruhSoni = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruh0907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruh0907&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ruhsoni0907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruhsoni0907&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -53,7 +53,7 @@ const ruhSoni = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ruh0907&theme=onedark&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ruhsoni0907&theme=onedark&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -61,7 +61,7 @@ const ruhSoni = {
 
 ## 🔥 Contribution Graph
 
-[![ruh0907's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruh0907&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ruhsoni0907's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruhsoni0907&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -78,14 +78,14 @@ const ruhSoni = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruh0907)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruhsoni0907)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruh0907&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ruhsoni0907&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
