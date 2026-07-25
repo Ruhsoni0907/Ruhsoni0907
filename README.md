@@ -53,7 +53,7 @@ const ruhSoni = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ruhsoni0907&theme=onedark&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Ruhsoni0907&theme=algolia&no-frame=true&column=7)
 
 </div>
 
